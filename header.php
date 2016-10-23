@@ -24,4 +24,5 @@
 <body>
 	<header class="header">
 		<!-- Vous pouvez mettre ici toutes les infos que vous voulez retrouver dans le header de toutes vos pages  -->
+ca se repete sur toutes les pages
 	</header>
